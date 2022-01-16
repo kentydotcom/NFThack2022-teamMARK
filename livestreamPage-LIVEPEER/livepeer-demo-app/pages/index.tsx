@@ -138,7 +138,7 @@ export default function App() {
           rel="noopener, nofollow"
           className="logo flex flex-col flex-1 lg:w-1/5"
         >
-          <h1 className="font-bold text-xl">TeamMARK x Livepeer</h1>
+          <h1 className="font-bold text-xl">Got It x Livepeer</h1>
         </a>
 
         <button
